@@ -1,0 +1,9 @@
+body{
+    background: url(lettalk/assets/images/login.jpg);
+	background-color: #444;
+    background: url(assets/images/back_login.jpg),url(lettalk/assets/images/back_login1.jpg),url(lettalk/assets/images/back_login.jpg);    
+}
+
+.vertical-offset-100{
+    padding-top:100px;
+}
